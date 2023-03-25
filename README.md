@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a Full Stack Developer with experience in bui
 
 ## 🔨 Projects
 
-### 🛍️ E-commerce Website
+### 🛍️ NFT Listing Dashboard
 
 A NFT Dashboard built using React, Scss.
 
