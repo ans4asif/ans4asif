@@ -12,19 +12,16 @@ A NFT Dashboard built using React, Scss.
 
 - Live Demo: [NFT Dashboard](http://opensniper.surge.sh/)
 
-### 📱 Social Media Platform
+### 📱 Application Tracker UI
 
-A social media platform built using React, Node.js, Express, and PostgreSQL. Users can create accounts, post updates, follow other users, and like and comment on posts. The platform also includes a real-time chat feature.
+An Application Tracking system (ATS)built using Gatsby and css framework Linaria.
+- Live Demo: [ATS System](https://webdev-jobs.opzoom.com/)
 
-- GitHub Repository: [https://github.com/username/project2](https://github.com/username/project2)
-- Live Demo: [https://project2-demo.herokuapp.com/](https://project2-demo.herokuapp.com/)
+### 📝 Fintech Website
 
-### 📝 Blogging Platform
+A fintech platform built using Gatsby. Users can create account and proceed to onboarding process
 
-A blogging platform built using React, Django, and PostgreSQL. Users can create accounts, create and publish blog posts, and comment on other users' posts. The platform also includes a search feature.
-
-- GitHub Repository: [https://github.com/username/project3](https://github.com/username/project3)
-- Live Demo: [https://project3-demo.herokuapp.com/](https://project3-demo.herokuapp.com/)
+- Live Demo: [Business Website](https://plastk.ca/)
 
 ## 📬 Contact Me
 
