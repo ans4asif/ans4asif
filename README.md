@@ -2,7 +2,7 @@
 
 ![Background Picture](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80)
 
-Welcome to my GitHub profile! I am a Full Stack Developer with experience in building web applications using a variety of technologies. Below are some of the projects that I have worked on:
+Welcome to my GitHub profile! I am a Frontend Expert & Full Stack Developer with experience in building web applications using a variety of technologies. Below are some of the projects that I have worked on:
 
 ## 🔨 Projects
 
